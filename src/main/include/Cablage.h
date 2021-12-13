@@ -37,7 +37,7 @@
 
 
 /* TABLEAU DE CABLAGE du ROBORIO
- *
+ * Nathan la ...
  * 	RS-232	->
  *
  * 	DIO-0	->    Encodeur Base Gauche A
